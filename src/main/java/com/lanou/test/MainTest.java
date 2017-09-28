@@ -6,6 +6,12 @@ package com.lanou.test;
 public class MainTest {
 
     public static void main(String[] args) {
+
+        System.out.println("相见时难别亦难,");
+
+
+
+
         System.out.println("东风无力百花残");
     }
 }
